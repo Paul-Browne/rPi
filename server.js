@@ -6,5 +6,5 @@ app.get('/', async (req, res) => {
     res.send('<h1>Hello world!</h1>');
 })
 
-app.listen(3000, () => console.log("http://localhost:3000"));
+app.listen(3333, () => console.log("http://localhost:3333"));
 
